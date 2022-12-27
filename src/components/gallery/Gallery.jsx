@@ -1,7 +1,7 @@
 import "./gallery.scss";
 
 //image
-const placeholder = require('../../img/placeholder.jpg');
+const placeholder = require('../../assets/placeholder.jpg');
 
 export default function Gallery() {
   return (
