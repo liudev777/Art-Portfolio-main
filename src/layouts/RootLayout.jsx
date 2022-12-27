@@ -9,7 +9,7 @@ export default function RootLayout() {
         <nav> 
             <h1>Devin Portfolio</h1>
             <ul className="nav-item">
-                <li><NavLink to="/" className="home-btn">Home</NavLink></li>
+                <li><NavLink to="home" className="home-btn">Home</NavLink></li>
                 
                 <li><NavLink to="about" className="about-btn">About</NavLink></li>
 
