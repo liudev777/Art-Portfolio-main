@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Art-Portfolio-main/static/css/main.3f0faed6.css",
-    "main.js": "/Art-Portfolio-main/static/js/main.02d5f8b3.js",
+    "main.css": "/Art-Portfolio-main/static/css/main.0d0e687c.css",
+    "main.js": "/Art-Portfolio-main/static/js/main.e1234de4.js",
     "static/media/komi 31.png": "/Art-Portfolio-main/static/media/komi 31.53a8b98cd658b49b3cef.png",
     "static/media/landscape7.png": "/Art-Portfolio-main/static/media/landscape7.1265bb84209042c7c2f2.png",
     "static/media/comm7.png": "/Art-Portfolio-main/static/media/comm7.be19804a14d1a9af35d0.png",
@@ -26,11 +26,11 @@
     "static/media/komi 11.png": "/Art-Portfolio-main/static/media/komi 11.7b5c72f3c29c09bf163a.png",
     "static/media/placeholder.jpg": "/Art-Portfolio-main/static/media/placeholder.e83e00e04a871eaf1317.jpg",
     "index.html": "/Art-Portfolio-main/index.html",
-    "main.3f0faed6.css.map": "/Art-Portfolio-main/static/css/main.3f0faed6.css.map",
-    "main.02d5f8b3.js.map": "/Art-Portfolio-main/static/js/main.02d5f8b3.js.map"
+    "main.0d0e687c.css.map": "/Art-Portfolio-main/static/css/main.0d0e687c.css.map",
+    "main.e1234de4.js.map": "/Art-Portfolio-main/static/js/main.e1234de4.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f0faed6.css",
-    "static/js/main.02d5f8b3.js"
+    "static/css/main.0d0e687c.css",
+    "static/js/main.e1234de4.js"
   ]
 }
