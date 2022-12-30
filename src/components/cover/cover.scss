@@ -1,4 +1,13 @@
 .cover {
     color: black;
-    min-height: 30rem;
+    // min-height: 30rem;
+    margin: 0;
+    padding: 0;
+}
+
+.cover img {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: block;
 }
