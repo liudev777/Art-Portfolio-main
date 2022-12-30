@@ -1,20 +1,36 @@
 {
   "files": {
-    "main.css": "/Art-Portfolio-main/static/css/main.59aa41a6.css",
-    "main.js": "/Art-Portfolio-main/static/js/main.e84f7769.js",
+    "main.css": "/Art-Portfolio-main/static/css/main.3f0faed6.css",
+    "main.js": "/Art-Portfolio-main/static/js/main.02d5f8b3.js",
     "static/media/komi 31.png": "/Art-Portfolio-main/static/media/komi 31.53a8b98cd658b49b3cef.png",
+    "static/media/landscape7.png": "/Art-Portfolio-main/static/media/landscape7.1265bb84209042c7c2f2.png",
+    "static/media/comm7.png": "/Art-Portfolio-main/static/media/comm7.be19804a14d1a9af35d0.png",
     "static/media/gwen copy.png": "/Art-Portfolio-main/static/media/gwen copy.a5c2b7851d59056ea0b3.png",
     "static/media/comm.png": "/Art-Portfolio-main/static/media/comm.87b8732ccdb605370883.png",
+    "static/media/Untitled_Artwork(5).png": "/Art-Portfolio-main/static/media/Untitled_Artwork(5).f119c06dd8148e01112f.png",
+    "static/media/princess.png": "/Art-Portfolio-main/static/media/princess.037cd60f2db680efea61.png",
     "static/media/reol.png": "/Art-Portfolio-main/static/media/reol.b73ea02a759db8d1b6f4.png",
+    "static/media/pyro oc 2.png": "/Art-Portfolio-main/static/media/pyro oc 2.2e57b523c571c2831489.png",
+    "static/media/landscape15.png": "/Art-Portfolio-main/static/media/landscape15.97aebbd1765eb826c926.png",
+    "static/media/Untitled_Artwork(3).png": "/Art-Portfolio-main/static/media/Untitled_Artwork(3).9bb80cae37c6f38f73c6.png",
+    "static/media/studd5.png": "/Art-Portfolio-main/static/media/studd5.3966a85aa2f67f1a8228.png",
+    "static/media/Untitled_Artwork(2).png": "/Art-Portfolio-main/static/media/Untitled_Artwork(2).289bd90e32f560b80030.png",
+    "static/media/3d.png": "/Art-Portfolio-main/static/media/3d.771d01727187c26d5843.png",
+    "static/media/Untitled_Artwork(6).png": "/Art-Portfolio-main/static/media/Untitled_Artwork(6).6d8e071e051232fedb33.png",
+    "static/media/Untitled_Artwork.png": "/Art-Portfolio-main/static/media/Untitled_Artwork.deebf0e62a1801e1f366.png",
+    "static/media/Untitled_Artwork(1).png": "/Art-Portfolio-main/static/media/Untitled_Artwork(1).2464f7185a649b60407c.png",
     "static/media/qi design.png": "/Art-Portfolio-main/static/media/qi design.d65538418530cce06a94.png",
+    "static/media/Untitled_Artwork(4).png": "/Art-Portfolio-main/static/media/Untitled_Artwork(4).6c64dfda71dea50212d3.png",
     "static/media/landscape.png": "/Art-Portfolio-main/static/media/landscape.14b6cae161a425961a7f.png",
+    "static/media/studdd.png": "/Art-Portfolio-main/static/media/studdd.35a9f557f59cca08176b.png",
+    "static/media/komi 11.png": "/Art-Portfolio-main/static/media/komi 11.7b5c72f3c29c09bf163a.png",
     "static/media/placeholder.jpg": "/Art-Portfolio-main/static/media/placeholder.e83e00e04a871eaf1317.jpg",
     "index.html": "/Art-Portfolio-main/index.html",
-    "main.59aa41a6.css.map": "/Art-Portfolio-main/static/css/main.59aa41a6.css.map",
-    "main.e84f7769.js.map": "/Art-Portfolio-main/static/js/main.e84f7769.js.map"
+    "main.3f0faed6.css.map": "/Art-Portfolio-main/static/css/main.3f0faed6.css.map",
+    "main.02d5f8b3.js.map": "/Art-Portfolio-main/static/js/main.02d5f8b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.59aa41a6.css",
-    "static/js/main.e84f7769.js"
+    "static/css/main.3f0faed6.css",
+    "static/js/main.02d5f8b3.js"
   ]
 }
