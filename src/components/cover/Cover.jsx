@@ -7,7 +7,7 @@ const landscape = require("../../assets/landscape.png");
 export default function Cover() {
   return (
     <div className="cover" id="cover">
-      <img src={landscape} width="100%" alt="placeholder" />
+      <img src={landscape} alt="placeholder" />
     </div>
   )
 }

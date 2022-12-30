@@ -9,7 +9,7 @@ export default function RootLayout() {
   return (
     <div className="root-layout">
       <nav> 
-        <h1>Devin Portfolio</h1>
+        <h1>Devin Liu</h1>
         <div className="desktop">
           <DesktopNav />
         </div>
