@@ -1,3 +1,5 @@
+@use "../global.scss" as g;
+
 .desktop .nav-item{
     list-style-type: none;
     margin: 0;
@@ -25,6 +27,7 @@
     min-width: 100vw;
     gap: 16px;
     margin: 0 auto;
+    z-index: 1;
     // box-shadow: 0 5px 4px 0 rgba(0,0,0,.2);
 }
 
@@ -48,7 +51,7 @@
 }
 
 .root-layout nav .desktop a:hover {
-    color: rgb(50, 132, 255);
+    // color: rgb(50, 132, 255);
     filter: brightness(1.2);
 }
 
@@ -64,13 +67,29 @@
     color: white;
     padding-left: 10px;
     padding-right: 10px;
-    padding-top: 100%;
+    padding-top: calc(100%);
     padding-bottom: 100%;
     // border-radius: 4px;
     font-weight: bold;
     padding: 1rem;
     transition: filter 300ms;
-    transition: all 100ms ease-in-out
+    transition: all 100ms ease-in-out;
+}
+
+.desktop a::before {
+    content: "";
+    position: absolute;
+    height: 3px;
+    width: 60%;
+    background-color: None;
+    top: 10px;
+}
+
+.desktop a:hover::before {
+    background-color: g.$primary;
+    transition: 300ms;
+
+
 }
 
 .root-layout nav .mobile {

@@ -1,3 +1,7 @@
+@use "../../global.scss" as g;
+
 .footer {
     min-height: 2rem;
+    color: white;
+    background-color: g.$tertiary;
 }
