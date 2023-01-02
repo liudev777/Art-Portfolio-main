@@ -8,7 +8,8 @@ const desc = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent 
 export default function Greeting() {
   return (
     <div className="greeting">
-        <CardView desc={desc}/>
+      <div className="title">WHO I AM</div>
+      <CardView desc={desc}/>
     </div>
   )
 }

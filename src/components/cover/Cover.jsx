@@ -15,7 +15,7 @@ export default function Cover() {
         <div className="social"></div>
       </div>
 
-      <img src={landscape} alt="placeholder" />
+      {/* <img src={landscape} alt="placeholder" /> */}
     </div>
   )
 }

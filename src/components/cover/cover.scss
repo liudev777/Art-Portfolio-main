@@ -1,14 +1,16 @@
 .cover {
     color: black;
     // min-height: 30rem;
-    margin: 0;
+    margin-top: 0;
     padding: 0;
     // display: flex;
-    // position: relative;
+    // position: relative;'
+    display: block;
+    
 }
 
 .cover img {
-    margin: 0;
+    margin-top: 0px;
     padding: 0;
     width: 100%;
     display: block;
@@ -16,37 +18,68 @@
 
 .profile {
     // display: flex;
-    flex-direction: column;
-    text-align: center;
-    position: absolute;
-    // left: calc(50% - 75px);
-    margin-left: auto;
-    margin-right: auto;
-    left: 0;
-    right: 0;
-    top: 20%;
-    color: white;
-    // z-index: -1;
+    position: relative;
+    width: 100%;
+    background-image: url("../../assets/landscape.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    // height: auto;
+    min-height: 500px;
+    padding-bottom: 1%;
+    padding-top: 10%;
+    // flex-direction: column;
+    // text-align: center;
+    // // position: absolute;
+    // // left: calc(50% - 75px);
+    // margin-left: auto;
+    // margin-right: auto;
+    // left: 0;
+    // right: 0;
+    // bottom: 10rem;
+    // color: white;
+    // // z-index: -1;
 
 }
 
 .pfp {
-    display: inline-block;
+    // display: inline-block;
     justify-content: center;
     align-items: center;
     aspect-ratio: 1;
     width: 150px;
-    background-color: white;
+    background-image: url("../../assets/my_avatar2.jpg");
+    background-size: cover;
     left: 50%;
-
+    text-align: center;
     border-radius: 200px;
+    margin: 0 auto 20px;
+    box-shadow: 1px 0px 7px #828282;
 }
 
 .status {
     text-align: center;
+    color: white;
+    text-shadow: 1px 0px 7px #828282;
 }
 
 .name {
     font-size: 30px;
     font-weight: bold;
+    text-align: center;
+    text-shadow: 1px 0px 7px #828282;
+    color:white;
+}
+
+.location {
+    text-align: center;
+    text-shadow: 1px 0px 7px #828282;
+    color: white;
+}
+
+.info div{
+    // text-align: center;
+    
+    color: white;
 }

@@ -20,7 +20,7 @@
 }
 
 .gallery {
-    background-color: g.$tertiary;
+    background-color: g.$primary;
     display: grid;
     // grid-template-columns: repeat(auto-fit, max(50%));
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
