@@ -1,5 +1,38 @@
+@use "../../global.scss" as g;
+
 .about {
-    background-color: yellow;
-    padding-top: 3rem;
-    min-height: 30rem;
+    background-color: g.$primary;
+    background-image: url("../../assets/comm_bg.jpg");
+    background-size: cover;
+    background-position-y: 10%;
+    min-height: 70rem;
+    display: flex;
+    flex-direction: column;
+    // justify-content: center;
+    align-items: center;
+    padding: 0;
+    padding-top: 5rem;
+    margin: 0;
+}
+
+.about .cardview {
+    background-color: white;
+    font-size: 25px;
+    width: 40rem;
+}
+
+.about .title {
+    color: black;
+    margin-bottom: 5rem;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: un;
+    display: flex;
+    flex-direction: row;
+}
+
+.about .pfp{
+    background-color: black;
+    // background-image: none;
+    aspect-ratio: 1;
 }

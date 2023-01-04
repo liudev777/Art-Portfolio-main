@@ -10,6 +10,7 @@ import {
 import Home from "./components/home/Home";
 import About from "./components/about/About";
 import Contact from "./components/contact/Contact"
+import Commission from "./components/commission/Commission"
 
 // layout
 import RootLayout from './layouts/RootLayout';
@@ -21,6 +22,7 @@ const router = createBrowserRouter(
       {/* <Route path="home" element={<Home />} /> */}
       <Route path="about" element={<About />}/>
       <Route path="contact" element={<Contact />} />
+      <Route path='commission' element={<Commission />} />
     </Route>
   )
 )

@@ -20,11 +20,11 @@
     // display: flex;
     position: relative;
     width: 100%;
-    background-image: url("../../assets/landscape.jpg");
+    background-image: url("../../assets/komi 31 bg.jpg");
     background-color: black;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position-y: 25%;
     // height: auto;
     min-height: 500px;
     padding-bottom: 1%;
@@ -45,7 +45,7 @@
 
 .pfp {
     // display: inline-block;
-    justify-content: center;
+    // justify-content: center;
     align-items: center;
     aspect-ratio: 1;
     width: 150px;
@@ -56,25 +56,26 @@
     border-radius: 200px;
     margin: 0 auto 20px;
     box-shadow: 1px 0px 7px #828282;
+    margin-top: 200px;
 }
 
 .status {
     text-align: center;
     color: white;
-    text-shadow: 1px 0px 7px #828282;
+    // text-shadow: 1px 0px 7px #828282;
 }
 
 .name {
     font-size: 30px;
     font-weight: bold;
     text-align: center;
-    text-shadow: 1px 0px 7px #828282;
+    // text-shadow: 1px 0px 7px #828282;
     color:white;
 }
 
 .location {
     text-align: center;
-    text-shadow: 1px 0px 7px #828282;
+    // text-shadow: 1px 0px 7px #828282;
     color: white;
 }
 
