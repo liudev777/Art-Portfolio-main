@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/Art-Portfolio-main/static/css/main.a71e8934.css",
-    "main.js": "/Art-Portfolio-main/static/js/main.60b37b6f.js",
+    "main.css": "/Art-Portfolio-main/static/css/main.ecd24ef1.css",
+    "main.js": "/Art-Portfolio-main/static/js/main.9e869205.js",
+    "static/media/komi 31 bg.jpg": "/Art-Portfolio-main/static/media/komi 31 bg.8504dd7b85b20ad091c6.jpg",
+    "static/media/comm_bg.jpg": "/Art-Portfolio-main/static/media/comm_bg.3c57d90162696b448a77.jpg",
     "static/media/komi 31.jpg": "/Art-Portfolio-main/static/media/komi 31.59522ff48eb38f4d409d.jpg",
     "static/media/comm7.jpg": "/Art-Portfolio-main/static/media/comm7.b18370980bc5f0aba3cd.jpg",
     "static/media/landscape7.jpg": "/Art-Portfolio-main/static/media/landscape7.e144b1050caecc35b7cf.jpg",
@@ -24,13 +26,14 @@
     "static/media/Untitled_Artwork(4).jpg": "/Art-Portfolio-main/static/media/Untitled_Artwork(4).f4c6c41446917adc361c.jpg",
     "static/media/landscape.jpg": "/Art-Portfolio-main/static/media/landscape.dd514263920f5bffeeb9.jpg",
     "static/media/studdd.jpg": "/Art-Portfolio-main/static/media/studdd.c84757bb045ae522e96f.jpg",
+    "static/media/my_avatar2.jpg": "/Art-Portfolio-main/static/media/my_avatar2.d28db9a825dfa5cc7601.jpg",
     "static/media/placeholder.jpg": "/Art-Portfolio-main/static/media/placeholder.e83e00e04a871eaf1317.jpg",
     "index.html": "/Art-Portfolio-main/index.html",
-    "main.a71e8934.css.map": "/Art-Portfolio-main/static/css/main.a71e8934.css.map",
-    "main.60b37b6f.js.map": "/Art-Portfolio-main/static/js/main.60b37b6f.js.map"
+    "main.ecd24ef1.css.map": "/Art-Portfolio-main/static/css/main.ecd24ef1.css.map",
+    "main.9e869205.js.map": "/Art-Portfolio-main/static/js/main.9e869205.js.map"
   },
   "entrypoints": [
-    "static/css/main.a71e8934.css",
-    "static/js/main.60b37b6f.js"
+    "static/css/main.ecd24ef1.css",
+    "static/js/main.9e869205.js"
   ]
 }
